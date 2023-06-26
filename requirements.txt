@@ -11,4 +11,3 @@ signal
 re
 argparse
 torchvision
-gaussian_analytic
